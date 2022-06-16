@@ -1,0 +1,14 @@
+img{
+border-radius:25px;
+}
+div.card{
+border-radius:25px;
+}
+h4{
+font-family: 'Kdam Thmor Pro', sans-serif;
+}
+p{
+font-weight: bold;
+font-size:1.2em;
+background: rgba(0,0,0,0.5);
+}
